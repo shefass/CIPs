@@ -1,12 +1,12 @@
 ---
-sip: <to be assigned>
-title: <Signum Account Description Standart>
-description: <Single decentralized truth source in account implemented by using an accounts description>
-author: <Shefas (@shefass)>
-discussions-to: <URL>
+sip: to be assigned
+title: Signum Account Description Standart
+description: Single decentralized truth source in account implemented by using an accounts description
+author: Shefas (@shefass)
+discussions-to: Discord
 status: Draft
-type: <Informational>
-created: <2022-02-21>
+type: Informational
+created: 2022-02-21
 ---
 
 ## Abstract
